@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+    <header>Demo Comparte fotos</header>
+    <body>fotos share
+        <article>
+            image:
+            <embed src="https://photos.app.goo.gl/ptjpIRa6o62vIIc32" type="imagen">
+        </article>
+        <p>1</p>
+        <p>2</p>
+        <img src="https://photos.app.goo.gl/ptjpIRa6o62vIIc32" alt="auto">
+    </body>
+</html>
